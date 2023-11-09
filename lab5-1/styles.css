@@ -1,0 +1,41 @@
+.row1
+{
+    display: flex;
+    justify-content: left;
+    background-color: white;
+    padding: 20px 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.row2
+{
+    display: flex;
+    justify-content: left;
+    background-color: white;
+    padding: 20px 0px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.row3
+{
+    display: flex;
+    justify-content: left;
+    background-color: white;
+    padding: 20px 0px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.row4
+{
+    display: flex;
+    justify-content: left;
+    background-color: white;
+    padding: 20px 0px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#success_record, #success_grade, #success_delete
+{
+    color: blue;
+}
